@@ -1,0 +1,14 @@
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\bin\Debug\net6.0\methodtask.exe
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\bin\Debug\net6.0\methodtask.deps.json
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\bin\Debug\net6.0\methodtask.runtimeconfig.json
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\bin\Debug\net6.0\methodtask.dll
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\bin\Debug\net6.0\methodtask.pdb
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.dll
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\refint\methodtask.dll
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.pdb
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\methodtask.genruntimeconfig.cache
+C:\Users\I'm Pasha\source\repos\methodtask\methodtask\obj\Debug\net6.0\ref\methodtask.dll
